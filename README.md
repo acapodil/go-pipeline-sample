@@ -1,8 +1,6 @@
 # Go Sample Pipelines in Harness TEST.
 
 #update 1
-#update 2 for PR
-#update 3 for PR testing
 
 Introduction
 ========================
